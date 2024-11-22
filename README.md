@@ -347,3 +347,158 @@ fov:
 
 Update properties
 bb...@gmail.com #26Oct 30, 2024 03:12AM Papa.Legba.N.B White Boy Expo The String Energy { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3", "docid": "_UXP2RABUDA", "ei": "r3Z4ZLSKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr", "referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seglva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "_UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)UHD_Graphics(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" } May 30, 2023 bb...@gmail.com #27Oct 30, 2024 06:26AM
+  five years ago there was a broken link at google i guesss bullshit 
+
+
+  {
+  "ns": "yt",
+  "el": "detailpage",
+  "cpn": "Faz3gDSuSPMwOXOh",
+  "docid": "REFhjdnIFjE",
+  "ver": 2,
+  "referrer": "https://www.youtube.com/channel/UCsqjHFMB_JYTaEnf_vmTNqg",
+  "cmt": "569.777",
+  "ei": "KLhMXaWvLsGtkgbK-K6gBQ",
+  "fmt": "398",
+  "fs": "0",
+  "rt": "5540.173",
+  "of": "MFogSdyoldDzQjik5DBDdQ",
+  "euri": "",
+  "lact": 1,
+  "cl": "262400615",
+  "mos": 0,
+  "state": "4",
+  "vm": "CAEQARgEKiA1M0JmMFJCSGVQQ1JZRXROWEFPTHFhbGlwT1V5TWpCYg",
+  "volume": 63,
+  "subscribed": "1",
+  "c": "WEB",
+  "cver": "2.20190808.06.01",
+  "cplayer": "UNIPLAYER",
+  "cbr": "Chrome",
+  "cbrver": "76.0.3809.87",
+  "cos": "Macintosh",
+  "cosver": "10_14_0",
+  "hl": "en_US",
+  "cr": "US",
+  "len": "1577.241",
+  "fexp": "23735281,23744176,23751767,23758142,23788845,23788875,23791942,23793834,23795009,23804281,23805410,23808952,23810273,23814380,23818122,23818483,23818585,23819664,23820454,23824201,23825157,23826836,23827085,23827174,23827330,23828083,23828513,23829532,23829996,23831961,23831961,23832195,23832210,23832308,23834157,3300004,3300111,3300132,3300161,3300304,3313321,3314088,3314361,3314786,3315351,3315405,3315531,3315785,9449243,9452643,9471235,9471653,9488571",
+  "feature": "c4-overview",
+  "afmt": "251",
+  "vct": "569.777",
+  "vd": "1577.241",
+  "vpl": "0.000-569.777",
+  "vbu": "0.000-690.001",
+  "vpa": "1",
+  "vsk": "0",
+  "ven": "0",
+  "vpr": "1",
+  "vrs": "4",
+  "vns": "2",
+  "vec": "null",
+  "vvol": "0.49597588523822916",
+  "totalVideoFrames": 3965,
+  "droppedVideoFrames": 20,
+  "lct": "569.777",
+  "lsk": false,
+  "lmf": false,
+  "lbw": "6668531.852",
+  "lhd": "0.033",
+  "lst": "0.000",
+  "laa": "itag=251,type=3,seg=68,range=8851856-8979890,time=680.0-690.0,off=0,len=128035,end=1",
+  "lva": "itag=398,type=3,seg=133,range=79482400-80059130,time=689.2-693.4,off=0,len=576731,end=1",
+  "lar": "itag=251,type=3,seg=68,range=8851856-8979890,time=680.0-690.0,off=0,len=128035,end=1",
+  "lvr": "itag=398,type=3,seg=133,range=79482400-80059130,time=689.2-693.4,off=0,len=576731,end=1",
+  "lab": "0.000-690.001",
+  "lvb": "0.000-693.426",
+  "ismb": 90890000,
+  "relative_loudness": "2.141",
+  "optimal_format": "720p",
+  "user_qual": "auto",
+  "debug_videoId": "REFhjdnIFjE",
+  "0sz": false,
+  "op": "",
+  "yof": false,
+  "dis": "",
+  "gpu": "Intel(R)_Iris(TM)_Graphics_650",
+  "cgr": true,
+  "debug_playbackQuality": "hd720",
+  "debug_date": "Fri Aug 09 2019 09:35:15 GMT-0700 (Pacific Daylight Time)"
+}
+Archived post. New comments cannot be posted and votes cannot be cast.
+
+Upvote
+4
+
+Downvote
+
+2
+Go to comments
+
+
+Share
+Share
+u/bestbuycanada avatar
+bestbuycanada
+•
+Promoted
+
+Black Friday sale is on now! Save up to 44% on select headphones & portable speakers.
+Shop Now
+bestbuy.ca
+Thumbnail image: Black Friday sale is on now! Save up to 44% on select headphones & portable speakers.
+Sort by:
+
+Best
+Comments Section
+u/RevaniteAnime avatar
+RevaniteAnime
+•
+5y ago
+•
+Profile Badge for the Achievement Top 1% Commenter Top 1% Commenter
+I'm pretty sure keys that start with c in this context refer to "client" for example...
+
+"cr" = client region
+
+"cbr": "Chrome", "cbrver": "76.0.3809.87", "cos": "Macintosh", "cosver": "10_14_0", = Browser and OS versions
+
+"fexp": "23735281,23744176,23751767,23758142,23788845,23788875,23791942,23793834,23795009,23804281,23805410,23808952,23810273,23814380,23818122,23818483,23818585,23819664,23820454,23824201,23825157,23826836,23827085,23827174,23827330,23828083,23828513,23829532,23829996,23831961,23831961,23832195,23832210,23832308,23834157,3300004,3300111,3300132,3300161,3300304,3313321,3314088,3314361,3314786,3315351,3315405,3315531,3315785,9449243,9452643,9471235,9471653,9488571", = Experiment IDs
+
+"state": "4", = state of the player, 4 = paused, 8 = playing
+
+"vd": "1577.241", and "len": "1577.241", = I presume these are length and video duration
+
+"vm": "CAEQARgEKiA1M0JmMFJCSGVQQ1JZRXROWEFPTHFhbGlwT1V5TWpCYg", = Not sure, Virtual machine ID maybe?
+
+I'm not entirely sure about the rest of them, if there were some specific ones I'll give you my best guess.
+
+
+
+Upvote
+2
+
+Downvote
+
+Award
+
+Share
+Share
+
+u/gpranav25 avatar
+gpranav25
+•
+3y ago
+•
+"vct" by that logic is video current time I think, there is also a "lct" that seems to give the same info, would be cool to know the difference.
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+Share
+
